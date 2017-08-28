@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ticoMiles_Alpha.data.unityweb",
+"asmCodeUrl": "ticoMiles_Alpha.asm.code.unityweb",
+"asmMemoryUrl": "ticoMiles_Alpha.asm.memory.unityweb",
+"asmFrameworkUrl": "ticoMiles_Alpha.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
