@@ -1,0 +1,5 @@
+
+.vs/ticoMile/DesignTimeBuild/.dtbcache
+*.lock
+obj/Debug/
+Library/metadata/*
